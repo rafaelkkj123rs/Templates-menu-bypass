@@ -6,7 +6,6 @@
 
 import tkinter as tk
 import time
-from colorama import Fore,Style
 from tkinter import messagebox
 
 # CONFIGURAÇÃO
